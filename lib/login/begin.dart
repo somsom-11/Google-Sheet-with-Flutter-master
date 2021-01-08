@@ -21,7 +21,7 @@ class _BeginPage extends State<Mybegin>{
           Container(
             padding: EdgeInsets.fromLTRB(20.0, 100.0, 0.0, 0.0),
             child: Text(
-              'Hellooooooo',style: TextStyle(fontFamily: 'Lob',fontSize: 80.0,fontWeight: FontWeight.w900),
+              'Hello',style: TextStyle(fontFamily: 'Lob',fontSize: 80.0,fontWeight: FontWeight.w900),
             ),
           ),
           Container(

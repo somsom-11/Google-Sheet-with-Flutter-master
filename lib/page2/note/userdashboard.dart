@@ -172,7 +172,7 @@ class _MyHomePageState extends State<UserDashboard> implements AddUserCallback {
                     ),
                     new IconButton(
                       icon: const Icon(Icons.delete_forever_rounded,
-                          color: Color.fromARGB(950, 181, 32, 0),size: 35.0,),
+                        color: Color.fromARGB(950, 181, 32, 0),size: 35.0,),
                       onPressed: () => deleteUser(user),
                     ),
                   ],
